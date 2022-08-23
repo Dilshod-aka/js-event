@@ -1,0 +1,38 @@
+
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container
+{
+    margin: 100px 700px;
+
+}
+.todo_element {
+    display: flex;
+    gap: 10px;
+    margin: 10px 140px;
+}
+h2
+{
+    color: blueviolet;
+    font-size: 100px;
+}
+.in__text
+{
+    margin: 30px 100px;
+}
+button
+{
+    margin: 10px 140px;
+    border: 1px solid rgb(0, 251, 255);
+    background-color: rgb(0, 251, 255);
+    border-radius: 5px;
+    width: 120px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    -ms-border-radius: 5px;
+    -o-border-radius: 5px;
+}
